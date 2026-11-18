@@ -1,0 +1,6 @@
+{
+  "name": "食材檢測影像辨識",
+  "description": "在電腦瀏覽器中央提供 iPhone（390px）與 Android（412px）直式手機版型，上傳 JPG／PNG 食材照片並透過伺服器端 Gemini 3.1 Flash Lite 進行台灣繁體中文食材清單辨識。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
